@@ -1,0 +1,47 @@
+{
+	"id": -1,
+	"name": "The Forge",
+	"description": "Made by the discord community The Forge, a server for fans of the Evil_Anvil youtube channel",
+	"links": {
+		"website": [
+			"https://www.youtube.com/@Evil_Anvil"
+		],
+		"discord": [
+			"bdPkKr2spu"
+		]
+	},
+	"path": {
+		"212-256": [
+			[
+				1432,
+				-873
+			],
+			[
+				1432,
+				-873
+			],
+			[
+				1432,
+				-873
+			],
+			[
+				1432,
+				-865
+			],
+			[
+				1442,
+				-865
+			],
+			[
+				1442,
+				-873
+			]
+		]
+	},
+	"center": {
+		"212-256": [
+			1437,
+			-869
+		]
+	}
+}
